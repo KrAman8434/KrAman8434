@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Car price prediction system](https://github.com/KrAman8434/Car_price_prediction)
 
-- 🌱 I’m currently learning **Neural Network**
+- 🌱 I’m currently learning **Power BI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KrAman8434](https://github.com/KrAman8434)
 
